@@ -1,0 +1,2 @@
+# Multi-Threaded-Log-Analyzer
+A small service that reads many log streams at the same time, parses each line into a structured record, and computes quality metrics (error rate, p95 latency, per-endpoint counts, etc.).
